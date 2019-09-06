@@ -15,7 +15,6 @@ function main(){
         console.log(answers.mainAction)
         switch(answers.mainAction){
             case "POST an Item":
-                console.log("TEST")
                 break;
             case "BID on an Item":
                 break;
